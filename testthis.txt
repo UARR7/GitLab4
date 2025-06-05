@@ -1,2 +1,5 @@
 hello all
+merge conflict
 hello from hitanshu
+
+changed this
